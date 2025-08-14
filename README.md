@@ -1,2 +1,2 @@
 # data-modeling-and-visualization
-Covers probability, random variables, independence, covariance, Central Limit Theorem, Chebyshev’s Inequality, major distributions, descriptive and graphical statistics, parameter estimation (method of moments, MLE), and data modeling concepts such as subtypes, supertypes, hierarchical, recursive, and historical data.
+Focuses on representing, analyzing, and interpreting data through probability, statistics, and estimation techniques, along with designing effective data models. Emphasizes visual communication of insights using charts, graphs, and modeling concepts to support informed decision-making.
